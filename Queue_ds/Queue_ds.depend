@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1692043916 source:f:\diploma\01_part 1 c programming - copy\18_lecture_18 data structures\queue\queue_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue_ds.h"
+
+1692040596 f:\diploma\01_part 1 c programming - copy\18_lecture_18 data structures\queue\queue_ds\queue_ds.h
+	"Platform_Types.h"
+
+1631476735 f:\diploma\01_part 1 c programming - copy\18_lecture_18 data structures\queue\queue_ds\platform_types.h
+
+1692047019 source:f:\diploma\01_part 1 c programming - copy\18_lecture_18 data structures\queue\queue_ds\queue_ds.c
+	"Queue_ds.h"
+	<stdlib.h>
+
